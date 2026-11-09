@@ -124,10 +124,10 @@
         <mxCell id="dn1o0TDCIkQ43ZhClUHw-0" />
         <mxCell id="dn1o0TDCIkQ43ZhClUHw-1" parent="dn1o0TDCIkQ43ZhClUHw-0" />
         <mxCell id="dn1o0TDCIkQ43ZhClUHw-2" value="长盈精密五金成品入库自动化流程" style="swimlane;html=1;childLayout=stackLayout;startSize=30;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=19;align=center;spacing=5;" parent="dn1o0TDCIkQ43ZhClUHw-1" vertex="1">
-          <mxGeometry x="17" y="29" width="740" height="1090" as="geometry" />
+          <mxGeometry x="17" y="29" width="740" height="1021" as="geometry" />
         </mxCell>
         <mxCell id="dn1o0TDCIkQ43ZhClUHw-7" value="机台区域" style="swimlane;html=1;startSize=20;fontSize=15;" parent="dn1o0TDCIkQ43ZhClUHw-2" vertex="1">
-          <mxGeometry y="30" width="440" height="1060" as="geometry" />
+          <mxGeometry y="30" width="440" height="991" as="geometry" />
         </mxCell>
         <mxCell id="0StaTH1LcBg1TFGA_Sbd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dn1o0TDCIkQ43ZhClUHw-7" source="dn1o0TDCIkQ43ZhClUHw-9" target="dn1o0TDCIkQ43ZhClUHw-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -178,7 +178,7 @@
           <mxGeometry x="57" y="724" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dn1o0TDCIkQ43ZhClUHw-28" value="成品区域" style="swimlane;html=1;startSize=20;fontSize=15;" parent="dn1o0TDCIkQ43ZhClUHw-2" vertex="1">
-          <mxGeometry x="440" y="30" width="300" height="1060" as="geometry" />
+          <mxGeometry x="440" y="30" width="300" height="991" as="geometry" />
         </mxCell>
         <mxCell id="dn1o0TDCIkQ43ZhClUHw-30" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;到成品库位搬货架出发到机台&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=13;" parent="dn1o0TDCIkQ43ZhClUHw-28" vertex="1">
           <mxGeometry x="100" y="373" width="120" height="60" as="geometry" />
@@ -195,7 +195,7 @@
         <mxCell id="0StaTH1LcBg1TFGA_Sbd-13" value="搬到出发货位" style="whiteSpace=wrap;html=1;align=center;fontSize=13;" parent="dn1o0TDCIkQ43ZhClUHw-28" vertex="1">
           <mxGeometry x="96" y="658" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0StaTH1LcBg1TFGA_Sbd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dn1o0TDCIkQ43ZhClUHw-28" source="0StaTH1LcBg1TFGA_Sbd-14" edge="1">
+        <mxCell id="0StaTH1LcBg1TFGA_Sbd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dn1o0TDCIkQ43ZhClUHw-28" source="0StaTH1LcBg1TFGA_Sbd-14" target="dn1o0TDCIkQ43ZhClUHw-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="156" y="887" as="targetPoint" />
           </mxGeometry>
